@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Proteen/static/css/main.41957326.css",
+    "main.js": "/Proteen/static/js/main.615999de.js",
+    "static/js/787.ee19f694.chunk.js": "/Proteen/static/js/787.ee19f694.chunk.js",
+    "index.html": "/Proteen/index.html",
+    "main.41957326.css.map": "/Proteen/static/css/main.41957326.css.map",
+    "main.615999de.js.map": "/Proteen/static/js/main.615999de.js.map",
+    "787.ee19f694.chunk.js.map": "/Proteen/static/js/787.ee19f694.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41957326.css",
+    "static/js/main.615999de.js"
+  ]
+}
